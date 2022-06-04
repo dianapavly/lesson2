@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(236, 235, 135);
+}
+img{
+    border: 3px solid rgb(36, 27, 27);
+    border-bottom: 10px double brown;
+    border-radius: 50%;
+}
+h2{
+    color: rgb(255, 27, 65);
+}
+a   {
+   color: rgb(255, 25, 190); 
+   font-size: 24px;
+   text-decoration: none;
+   background-color: bisque;
+   padding:5px 10px;
+   border-radius: 5px;
+   border: 1px dotted black;
+
+}
